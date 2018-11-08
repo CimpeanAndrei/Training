@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1541678703 source:/home/cimpean/Documents/Training 1/Number sorting/main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
