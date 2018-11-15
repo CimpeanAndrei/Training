@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542279915 source:/Users/andreidancimpean/Documents/Training/Words/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
