@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1544108921 source:/Users/andreidancimpean/Documents/Training/Queue.c/main.cpp
+	<iostream>
+	"coada.h"
+
+1544109931 /Users/andreidancimpean/Documents/Training/Queue.c/include/coada.h
+	"Nod"
+
+1544110781 source:/Users/andreidancimpean/Documents/Training/Queue.c/src/coada.cpp
+	"coada.h"
+	<iostream>
+
+1544108899 /Users/andreidancimpean/Documents/Training/Queue.c/include/Nod
+

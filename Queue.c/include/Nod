@@ -1,0 +1,12 @@
+#ifndef NOD_INCLUDED
+#define NOD_INCLUDED
+
+
+struct Nod
+{
+    int Data;
+    Nod *Next;
+    Nod *Prev;
+};
+
+#endif // NOD_INCLUDED
