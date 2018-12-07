@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544196896 source:c:\users\user\documents\training\stacks.a\main.cpp
+	<iostream>
+	<stdlib.h>
+
