@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1544193770 source:c:\users\user\documents\training\stacks.c\main.cpp
+	<iostream>
+	"Stack.h"
+	"node.h"
+
+1544193279 source:c:\users\user\documents\training\stacks.c\src\node.cpp
+	"node.h"
+	<iostream>
+
+1544192620 c:\users\user\documents\training\stacks.c\include\node.h
+
+1544193601 c:\users\user\documents\training\stacks.c\include\stack.h
+	"node.h"
+	<iostream>
+
+1544193620 source:c:\users\user\documents\training\stacks.c\src\stack.cpp
+	"Stack.h"
+	"node.h"
+	<iostream>
+
