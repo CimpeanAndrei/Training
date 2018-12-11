@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544530620 source:c:\users\user\documents\training\queue.odd\main.cpp
+	<stdlib.h>
+	<iostream>
+
