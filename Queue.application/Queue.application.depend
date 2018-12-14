@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1544801859 source:c:\users\username\documents\training\queue.application\main.cpp
+	<iostream>
+	<string>
+
