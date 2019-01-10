@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1547127423 source:c:\users\username\documents\training\textline\main.cpp
+	<iostream>
+	<istream>
+	<cstring>
+	<cctype>
+
