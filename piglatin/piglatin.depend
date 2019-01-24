@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1548330032 source:c:\users\username\documents\training\piglatin\main.cpp
+	<iostream>
+	<cstring>
+
